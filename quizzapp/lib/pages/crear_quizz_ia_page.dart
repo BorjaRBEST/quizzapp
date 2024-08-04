@@ -114,6 +114,7 @@ class _CrearQuizzIaPageState extends State<CrearQuizzIaPage> {
                   MaterialPageRoute(
                     builder: (context) => SalaQuizzIaPage(
                       tipoQuizz: _tipoQuizz,
+                      numeroPreguntas: _numeroPreguntas,
                     ),
                   ),
                 );
