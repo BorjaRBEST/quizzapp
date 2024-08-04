@@ -1,0 +1,187 @@
+{
+    "quizz_historia": {
+      "documentos": {
+        "pregunta1": {
+          "preguntaId": "pregunta1",
+          "pregunta": "¿Quién descubrió América?",
+          "opciones": {
+            "A": "Cristóbal Colón",
+            "B": "Marco Polo",
+            "C": "Américo Vespucio",
+            "D": "Fernando de Magallanes"
+          },
+          "opcionCorrecta": "A",
+          "dificultad": "facil"
+        },
+        "pregunta2": {
+          "preguntaId": "pregunta2",
+          "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+          "opciones": {
+            "A": "1912",
+            "B": "1914",
+            "C": "1916",
+            "D": "1918"
+          },
+          "opcionCorrecta": "B",
+          "dificultad": "medio"
+        },
+        "pregunta3": {
+          "preguntaId": "pregunta3",
+          "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+          "opciones": {
+            "A": "Abraham Lincoln",
+            "B": "Thomas Jefferson",
+            "C": "George Washington",
+            "D": "John Adams"
+          },
+          "opcionCorrecta": "C",
+          "dificultad": "facil"
+        },
+        "pregunta4": {
+          "preguntaId": "pregunta4",
+          "pregunta": "¿Cuál es la capital del antiguo Imperio Romano?",
+          "opciones": {
+            "A": "Roma",
+            "B": "Atenas",
+            "C": "Constantinopla",
+            "D": "Cartago"
+          },
+          "opcionCorrecta": "A",
+          "dificultad": "facil"
+        },
+        "pregunta5": {
+          "preguntaId": "pregunta5",
+          "pregunta": "¿En qué año cayó el Muro de Berlín?",
+          "opciones": {
+            "A": "1987",
+            "B": "1988",
+            "C": "1989",
+            "D": "1990"
+          },
+          "opcionCorrecta": "C",
+          "dificultad": "medio"
+        },
+        "pregunta6": {
+          "preguntaId": "pregunta6",
+          "pregunta": "¿Quién pintó la Mona Lisa?",
+          "opciones": {
+            "A": "Vincent van Gogh",
+            "B": "Pablo Picasso",
+            "C": "Leonardo da Vinci",
+            "D": "Claude Monet"
+          },
+          "opcionCorrecta": "C",
+          "dificultad": "facil"
+        },
+        "pregunta7": {
+          "preguntaId": "pregunta7",
+          "pregunta": "¿Cuál fue la principal causa de la Segunda Guerra Mundial?",
+          "opciones": {
+            "A": "El asesinato del archiduque Francisco Fernando",
+            "B": "La invasión de Polonia por Alemania",
+            "C": "El ataque a Pearl Harbor",
+            "D": "La crisis de los misiles en Cuba"
+          },
+          "opcionCorrecta": "B",
+          "dificultad": "medio"
+        },
+        "pregunta8": {
+          "preguntaId": "pregunta8",
+          "pregunta": "¿Quién fue el faraón más joven de Egipto?",
+          "opciones": {
+            "A": "Ramsés II",
+            "B": "Tutankamón",
+            "C": "Akhenatón",
+            "D": "Cleopatra"
+          },
+          "opcionCorrecta": "B",
+          "dificultad": "facil"
+        },
+        "pregunta9": {
+          "preguntaId": "pregunta9",
+          "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+          "opciones": {
+            "A": "1776",
+            "B": "1789",
+            "C": "1799",
+            "D": "1804"
+          },
+          "opcionCorrecta": "B",
+          "dificultad": "medio"
+        },
+        "pregunta10": {
+          "preguntaId": "pregunta10",
+          "pregunta": "¿Quién fue el líder del movimiento de independencia de la India?",
+          "opciones": {
+            "A": "Jawaharlal Nehru",
+            "B": "Bhagat Singh",
+            "C": "Subhas Chandra Bose",
+            "D": "Mahatma Gandhi"
+          },
+          "opcionCorrecta": "D",
+          "dificultad": "facil"
+        },
+        "pregunta11": {
+          "preguntaId": "pregunta11",
+          "pregunta": "¿Cuál es el documento que establece la independencia de los Estados Unidos?",
+          "opciones": {
+            "A": "La Constitución",
+            "B": "La Declaración de Independencia",
+            "C": "La Carta de Derechos",
+            "D": "El Federalista"
+          },
+          "opcionCorrecta": "B",
+          "dificultad": "medio"
+        },
+        "pregunta12": {
+          "preguntaId": "pregunta12",
+          "pregunta": "¿Quién fue el último emperador de China?",
+          "opciones": {
+            "A": "Puyi",
+            "B": "Qianlong",
+            "C": "Kangxi",
+            "D": "Yongle"
+          },
+          "opcionCorrecta": "A",
+          "dificultad": "dificil"
+        },
+        "pregunta13": {
+          "preguntaId": "pregunta13",
+          "pregunta": "¿Cuál fue la primera civilización en América?",
+          "opciones": {
+            "A": "Los Mayas",
+            "B": "Los Aztecas",
+            "C": "Los Olmecas",
+            "D": "Los Incas"
+          },
+          "opcionCorrecta": "C",
+          "dificultad": "medio"
+        },
+        "pregunta14": {
+          "preguntaId": "pregunta14",
+          "pregunta": "¿Qué evento marcó el inicio de la Edad Media?",
+          "opciones": {
+            "A": "La caída del Imperio Romano de Occidente",
+            "B": "La fundación de Constantinopla",
+            "C": "La coronación de Carlomagno",
+            "D": "La batalla de Hastings"
+          },
+          "opcionCorrecta": "A",
+          "dificultad": "dificil"
+        },
+        "pregunta15": {
+          "preguntaId": "pregunta15",
+          "pregunta": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+          "opciones": {
+            "A": "Marie Curie",
+            "B": "Rosalind Franklin",
+            "C": "Ada Lovelace",
+            "D": "Dorothy Hodgkin"
+          },
+          "opcionCorrecta": "A",
+          "dificultad": "dificil"
+        }
+      }
+    }
+  }
+  
